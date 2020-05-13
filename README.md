@@ -1,2 +1,1 @@
-# JavaScript-
-JavaScript Functions Intro
+# Functions
