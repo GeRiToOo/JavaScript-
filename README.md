@@ -1,1 +1,2 @@
-# Functions
+# JavaScript Functions
+Exercises
